@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\第一视角\source\repos\超大数相加\超大数相加\源.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\第一视角\source\repos\超大数相加\超大数相加\源.cpp(53): warning C4018: “<”: 有符号/无符号不匹配
+  超大数相加.vcxproj -> C:\Users\第一视角\Source\Repos\超大数相加\Debug\超大数相加.exe
