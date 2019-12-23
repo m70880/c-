@@ -1,0 +1,3 @@
+﻿  源.cpp
+c:\users\第一视角\source\repos\练习\练习\源.cpp(15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  练习.vcxproj -> C:\Users\第一视角\Source\Repos\练习\x64\Debug\练习.exe
